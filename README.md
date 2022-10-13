@@ -3,4 +3,4 @@
 
 This repository contains solutions to the exercises from Introduction to Aritificial Intelligence Course.
 
-[Original repository with exercises](http://github.com/apohllo/sztuczna-inteligencja)
+[Original repository with the exercises](http://github.com/apohllo/sztuczna-inteligencja)
